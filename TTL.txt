@@ -1,0 +1,5 @@
+Tempat : Tuban
+Hari : Minggu
+Tanggal : 19
+Bulan : Oktober
+Tahun : 2003
